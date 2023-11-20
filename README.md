@@ -12,14 +12,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/tornovdutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tornovdutta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tornovdutta20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tornovdutta20" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/tornov dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tornov dutta" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tornovdkk2o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tornovdkk2o" height="30" width="40" /></a>
+<a href="https://instagram.com/tornovdutta" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTppW9sHR6L4QY5Y5K4hxX8QLmKQQ7Ai8gkMA&usqp=CAU" alt="tornovdutta" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tornovdutta20" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="tornovdutta20" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/tornov dutta" target="blank"><img align="center" src="https://companyurlfinder.com/marketing/assets/img/logos/hackerearth.com.png" alt="tornov dutta" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/tornovdkk2o" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="tornovdkk2o" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/34/978/png-transparent-java-object-oriented-jvm-java-logo-applications-web-services-3d-icon.png" alt="java" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tornov&show_icons=true&locale=en&layout=compact" alt="tornov" /></p>
 
