@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://instagram.com/tornovdutta" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTppW9sHR6L4QY5Y5K4hxX8QLmKQQ7Ai8gkMA&usqp=CAU" alt="tornovdutta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tornovdutta20" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="tornovdutta20" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/tornov dutta" target="blank"><img align="center" src="https://companyurlfinder.com/marketing/assets/img/logos/hackerearth.com.png" alt="tornov dutta" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tornovdkk2o" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="tornovdkk2o" height="30" width="40" /></a>
 </p>
 
